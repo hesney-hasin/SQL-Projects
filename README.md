@@ -1,6 +1,6 @@
 # 🗄️ SQL Projects 
 
-A collection of guided SQL projects completed on [DataCamp](https://www.datacamp.com/) as part of my journey toward becoming a Data Analyst. Each project uses real-world datasets and explores a distinct domain — from global finance to public transport to mental health research.
+A collection of guided SQL projects completed as a part of my journey toward becoming a Data Analyst. Each project uses real-world datasets and explores a distinct domain — from global finance to public transport to mental health research.
 
 ---
 
